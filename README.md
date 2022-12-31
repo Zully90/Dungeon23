@@ -54,6 +54,11 @@ Al themes are taken from the "Divina Commedia" itself, hopefully I will be able 
 | 11 | Eighth Circle | Fraud |
 | 12 | Ninth Circle | Treachery |
 
+### Why are you there?
+Well, feel free to imagine whatever you want, just a couple of ideas:
+1. Someone sent the group to find the menace into this forest.
+1. The group got lost.
+1. the group has heard that a treasure is hidden somwehere.
 
 ## Resources
 
