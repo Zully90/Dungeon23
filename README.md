@@ -105,7 +105,7 @@ Al themes are taken from the "Divina Commedia" itself, hopefully I will be able 
     * Simple enought o be explained with words.
     * So Clear, simple, dangerous.
 
-### A Buch of stuff
+### A Bunch of stuff
 
 [GitHub page of Dungeon23 of duvelmandice](https://github.com/duvelmandice/dungeon23-resources)
 
