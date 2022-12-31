@@ -112,6 +112,7 @@ Well, feel free to imagine whatever you want, just a couple of ideas:
 
 ### A Bunch of stuff
 
-[GitHub page of Dungeon23 of duvelmandice](https://github.com/duvelmandice/dungeon23-resources)
+* [GitHub page of Dungeon23 of duvelmandice](https://github.com/duvelmandice/dungeon23-resources)
+* [Really good collection made by Ben Milton](https://questingbeast.substack.com/p/the-glatisant-issue-35)
 
 ---
